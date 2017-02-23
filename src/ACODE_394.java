@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by anshu on 23/02/17.
  */
-// http://www.spoj.com/problems/ACODE/
+// http://www.spoj.com/problems/ACODE/     //
 
 public class ACODE_394 {
     public static void main(String[] args) {
