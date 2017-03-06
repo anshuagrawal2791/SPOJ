@@ -5,7 +5,7 @@ import java.io.IOException;
 /**
  * Created by anshu on 02/03/17.
  */
-public class Reader {
+class Reader {
 
         final private int BUFFER_SIZE = 1 << 16;private DataInputStream din;private byte[] buffer;private int bufferPointer, bytesRead;
         public Reader(){din=new DataInputStream(System.in);buffer=new byte[BUFFER_SIZE];bufferPointer=bytesRead=0;
